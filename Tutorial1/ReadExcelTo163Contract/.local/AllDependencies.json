@@ -3495,9 +3495,9 @@
     "restore": {
       "projectUniqueName": "ReadExcelTo163Contract",
       "projectName": "ReadExcelTo163Contract",
-      "projectPath": "D:\\UIpath\\Tutorial1\\ReadExcelTo163Contract\\.local",
+      "projectPath": "D:\\github\\rpatutorial\\Tutorial1\\ReadExcelTo163Contract\\.local",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "D:\\UIpath\\Tutorial1\\ReadExcelTo163Contract\\.local"
+      "outputPath": "D:\\github\\rpatutorial\\Tutorial1\\ReadExcelTo163Contract\\.local"
     },
     "frameworks": {
       "net461": {
@@ -3525,28 +3525,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.Identity.Client 4.14.0' from source 'https://www.myget.org/F/workflow/': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.Identity.Client"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Google.Apis.PeopleService.v1 1.43.0.1876' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Google.Apis.PeopleService.v1"
-    },
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Newtonsoft.Json 11.0.1' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
-      "libraryId": "Newtonsoft.Json"
-    }
-  ]
+  }
 }

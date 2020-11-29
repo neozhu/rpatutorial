@@ -274,7 +274,7 @@
                                 </ui:SetValue>
                                 <ui:SetValue AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="Set Text 'INPUT'" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="SetValue_2">
                                   <ui:SetValue.Target>
-                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ff99e7eb-73af-4c9b-81de-ca6369b5cb39" InformativeScreenshot="15db9f83fa407248b1713866a5340ff2" Selector="&lt;webctrl tag='INPUT' type='text' class='nui-ipt-input' parentclass='js-component-input nui-ipt *' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;input' idx='1' /&gt;&#xD;&#xA;">
+                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ff99e7eb-73af-4c9b-81de-ca6369b5cb39" InformativeScreenshot="15db9f83fa407248b1713866a5340ff2" Selector="&lt;webctrl tag='INPUT' type='text' class='nui-ipt-input' parentclass='js-component-input nui-ipt *' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;input' idx='1' /&gt;&#xA;">
                                       <ui:Target.TimeoutMS>
                                         <InArgument x:TypeArguments="x:Int32" />
                                       </ui:Target.TimeoutMS>
@@ -291,7 +291,7 @@
                                 </ui:SetValue>
                                 <ui:SetValue AlterIfDisabled="{x:Null}" ContinueOnError="{x:Null}" DelayAfter="{x:Null}" DelayBefore="{x:Null}" DisplayName="Set Text 'INPUT'" sap:VirtualizedContainerService.HintSize="334,134" sap2010:WorkflowViewState.IdRef="SetValue_3">
                                   <ui:SetValue.Target>
-                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="5599cc36-921f-447e-8e02-b2723cc90b4a" InformativeScreenshot="bcb683d6ad2c1960dd1ea4d8233e8ec0" Selector="&lt;webctrl tag='INPUT' type='text' class='nui-ipt-input' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;input' isleaf='1' parentclass='js-component-input nui-ipt *' idx='2' /&gt;&#xD;&#xA;">
+                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="5599cc36-921f-447e-8e02-b2723cc90b4a" InformativeScreenshot="bcb683d6ad2c1960dd1ea4d8233e8ec0" Selector="&lt;webctrl tag='INPUT' type='text' class='nui-ipt-input' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;input' isleaf='1' parentclass='js-component-input nui-ipt *' idx='2' /&gt;&#xA;">
                                       <ui:Target.TimeoutMS>
                                         <InArgument x:TypeArguments="x:Int32" />
                                       </ui:Target.TimeoutMS>
@@ -318,7 +318,7 @@
                                     </ui:CursorPosition>
                                   </ui:Click.CursorPosition>
                                   <ui:Click.Target>
-                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="f1522561-246c-4f24-a9ff-a462ab84c563" InformativeScreenshot="6d313ed53cc8ed65673cf05aede2ca60" Selector="&lt;webctrl tag='SPAN' aaname='请选择' class='nui-btn-text' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;div&amp;gt;span' innertext='请选择' /&gt;&#xD;&#xA;">
+                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="f1522561-246c-4f24-a9ff-a462ab84c563" InformativeScreenshot="6d313ed53cc8ed65673cf05aede2ca60" Selector="&lt;webctrl tag='SPAN' aaname='请选择' class='nui-btn-text' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;dl&amp;gt;dd&amp;gt;div&amp;gt;div&amp;gt;span' innertext='请选择' /&gt;&#xA;">
                                       <ui:Target.TimeoutMS>
                                         <InArgument x:TypeArguments="x:Int32" />
                                       </ui:Target.TimeoutMS>
@@ -340,7 +340,7 @@
                                     </ui:CursorPosition>
                                   </ui:Click.CursorPosition>
                                   <ui:Click.Target>
-                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ce34bcf8-cf17-46c2-b2ae-279b0dbe00dc" InformativeScreenshot="2fe438db09b98f39f968f712ae5a850e" Selector="&lt;webctrl aria-role='checkbox' tag='SPAN' class='js-component-checkbox nui-chk nui-chk-hasText  ' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;span' innertext='RBA' /&gt;&#xD;&#xA;">
+                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="ce34bcf8-cf17-46c2-b2ae-279b0dbe00dc" InformativeScreenshot="2fe438db09b98f39f968f712ae5a850e" Selector="&lt;webctrl aria-role='checkbox' tag='SPAN' class='js-component-checkbox nui-chk nui-chk-hasText  ' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul&amp;gt;li&amp;gt;span' innertext='RPA' /&gt;&#xD;&#xA;">
                                       <ui:Target.TimeoutMS>
                                         <InArgument x:TypeArguments="x:Int32" />
                                       </ui:Target.TimeoutMS>
@@ -362,7 +362,7 @@
                                     </ui:CursorPosition>
                                   </ui:Click.CursorPosition>
                                   <ui:Click.Target>
-                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0e1e10e6-1a9c-4ce3-aaab-b9f0512bae50" InformativeScreenshot="d74e220d5cddd9a749aa46b37ac5c280" Selector="&lt;webctrl tag='SPAN' aaname='保 存' class='nui-btn-text' innertext='保 存' idx='2' /&gt;&#xD;&#xA;">
+                                    <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="0e1e10e6-1a9c-4ce3-aaab-b9f0512bae50" InformativeScreenshot="d74e220d5cddd9a749aa46b37ac5c280" Selector="&lt;webctrl tag='SPAN' aaname='保 存' class='nui-btn-text' innertext='保 存' idx='2' /&gt;&#xA;">
                                       <ui:Target.TimeoutMS>
                                         <InArgument x:TypeArguments="x:Int32" />
                                       </ui:Target.TimeoutMS>
@@ -385,7 +385,7 @@
                                   </ui:CursorPosition>
                                 </ui:Click.CursorPosition>
                                 <ui:Click.Target>
-                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2f9b69fe-8ff7-47d2-955f-52c5ce8830b2" InformativeScreenshot="481891eee263c88fa939fa4c36e56cfa" Selector="&lt;webctrl tag='SPAN' aaname='确 定' class='nui-btn-text' innertext='确 定' /&gt;&#xD;&#xA;">
+                                  <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="2f9b69fe-8ff7-47d2-955f-52c5ce8830b2" InformativeScreenshot="481891eee263c88fa939fa4c36e56cfa" Selector="&lt;webctrl tag='SPAN' aaname='确 定' class='nui-btn-text' innertext='确 定' /&gt;&#xA;">
                                     <ui:Target.TimeoutMS>
                                       <InArgument x:TypeArguments="x:Int32" />
                                     </ui:Target.TimeoutMS>
@@ -408,7 +408,7 @@
                                 </ui:CursorPosition>
                               </ui:Click.CursorPosition>
                               <ui:Click.Target>
-                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a43f7952-3306-4656-aec9-53fe29777247" InformativeScreenshot="7afef8298cd92d8a01205ead7884c1fb" Selector="&lt;webctrl tag='SPAN' aaname='关 闭' class='nui-btn-text' innertext='关 闭' /&gt;&#xD;&#xA;">
+                                <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="a43f7952-3306-4656-aec9-53fe29777247" InformativeScreenshot="7afef8298cd92d8a01205ead7884c1fb" Selector="&lt;webctrl tag='SPAN' aaname='关 闭' class='nui-btn-text' innertext='关 闭' /&gt;&#xA;">
                                   <ui:Target.TimeoutMS>
                                     <InArgument x:TypeArguments="x:Int32" />
                                   </ui:Target.TimeoutMS>
