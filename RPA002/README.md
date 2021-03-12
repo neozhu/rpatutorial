@@ -4,6 +4,8 @@ Automatically get the latest stock price from Google
 
 ### Flow Chart
 ![](https://github.com/neozhu/rpatutorial/blob/main/RPA002/.screenshots/1-1.png?raw=true)
+![](https://github.com/neozhu/rpatutorial/blob/main/RPA002/.screenshots/1-2.png?raw=true)
+![](https://github.com/neozhu/rpatutorial/blob/main/RPA002/.screenshots/1-3.png?raw=true)
 ### init close application
 ![](https://github.com/neozhu/rpatutorial/blob/main/RPA002/.screenshots/2.png?raw=true)
 ### read excel stock code and input to google search
