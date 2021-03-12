@@ -363,6 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 
 
-RPA002/.local/AllDependencies.json
-RPA002/.local/PackageCache.json
-RPA002/.tmh/config.json
+RPA002/.local/*
+RPA002/.tmh/*
+RPA002/.screenshots/*
