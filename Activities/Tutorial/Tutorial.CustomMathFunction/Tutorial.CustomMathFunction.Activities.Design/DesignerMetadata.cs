@@ -23,6 +23,10 @@ namespace Tutorial.CustomMathFunction.Activities.Design
             builder.AddCustomAttributes(typeof(XmlResolver), new DesignerAttribute(typeof(XmlResolverDesigner)));
             builder.AddCustomAttributes(typeof(XmlResolver), new HelpKeywordAttribute(""));
 
+            builder.AddCustomAttributes(typeof(HtmlResolver), categoryAttribute);
+            builder.AddCustomAttributes(typeof(HtmlResolver), new DesignerAttribute(typeof(HtmlResolverDesigner)));
+            builder.AddCustomAttributes(typeof(HtmlResolver), new HelpKeywordAttribute(""));
+
 
             MetadataStore.AddAttributeTable(builder.CreateTable());
         }

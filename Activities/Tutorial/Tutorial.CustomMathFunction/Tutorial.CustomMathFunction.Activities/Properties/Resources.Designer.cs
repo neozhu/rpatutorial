@@ -178,6 +178,96 @@ namespace Tutorial.CustomMathFunction.Activities.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Read html content to datatable.
+        /// </summary>
+        public static string HtmlResolver_Description {
+            get {
+                return ResourceManager.GetString("HtmlResolver_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to HtmlResolver.
+        /// </summary>
+        public static string HtmlResolver_DisplayName {
+            get {
+                return ResourceManager.GetString("HtmlResolver_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First row is head for out put datatable field name.
+        /// </summary>
+        public static string HtmlResolver_FirstRowIsHeader_Description {
+            get {
+                return ResourceManager.GetString("HtmlResolver_FirstRowIsHeader_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to First Row Is Header.
+        /// </summary>
+        public static string HtmlResolver_FirstRowIsHeader_DisplayName {
+            get {
+                return ResourceManager.GetString("HtmlResolver_FirstRowIsHeader_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Html string content .
+        /// </summary>
+        public static string HtmlResolver_HtmlContent_Description {
+            get {
+                return ResourceManager.GetString("HtmlResolver_HtmlContent_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Html Content.
+        /// </summary>
+        public static string HtmlResolver_HtmlContent_DisplayName {
+            get {
+                return ResourceManager.GetString("HtmlResolver_HtmlContent_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Output datatable.
+        /// </summary>
+        public static string HtmlResolver_Result_Description {
+            get {
+                return ResourceManager.GetString("HtmlResolver_Result_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Result.
+        /// </summary>
+        public static string HtmlResolver_Result_DisplayName {
+            get {
+                return ResourceManager.GetString("HtmlResolver_Result_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Read table position.
+        /// </summary>
+        public static string HtmlResolver_XPath_Description {
+            get {
+                return ResourceManager.GetString("HtmlResolver_XPath_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to XPath.
+        /// </summary>
+        public static string HtmlResolver_XPath_DisplayName {
+            get {
+                return ResourceManager.GetString("HtmlResolver_XPath_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Input.
         /// </summary>
         public static string Input_Category {
